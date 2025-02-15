@@ -1,4 +1,3 @@
-
 The purpose of this little program is to expose the seductions of
 rhetoric, not to criticize actions taken.  Despite my admiration for
 many of the actions taken in the name of insurrection, I'm suspicious
@@ -11,3 +10,11 @@ out just one other exemplar, the recent "Communique from an Absent
 Future: The Terminus of Student Life" is by and large an excellent
 piece of analysis.  This program is intended only to demonstrate the
 pitfalls of language which sounds too good to be meaningful.
+
+## Running locally
+
+Install ruby, then install the gems `haml`, `sinatra`, `puma`, `thin`, and `sass-embedded`.
+
+Then run `ruby insurrect.rb`. This will launch the application at `http://localhost:4567/`.
+
+Running and hosting this application on the public internet on port 80 is left as an exercise for the reader.
