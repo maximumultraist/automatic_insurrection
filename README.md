@@ -13,7 +13,7 @@ pitfalls of language which sounds too good to be meaningful.
 
 ## Running locally
 
-Install ruby, then install the gems `haml`, `sinatra`, `puma`, `thin`, and `sass-embedded`.
+Install ruby, then install the gems `haml`, `sinatra`, `falcon`, and `sass-embedded`.
 
 Then run `ruby insurrect.rb`. This will launch the application at `http://localhost:4567/`.
 
